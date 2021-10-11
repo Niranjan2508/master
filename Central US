@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Microsoft Azure App Service - Welcome</title>
+  </head>
+  <body>
+    <h1 style="font-size:30px">
+      Hello! this is <span style="color:green;">Application From WebApp01 Central US</span>!
+	</h1>
+  </body>
+</html>
